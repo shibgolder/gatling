@@ -1,0 +1,14 @@
+## ignoring the generated reports
+/gatling-fatjar/results/**
+
+## ignoring the generated fat jar
+/gatling-fatjar/target/**
+
+## ignoring the tmp
+
+/gatling-fatjar/tmp/**
+
+## ignoring the SRC for time being
+
+
+/gatling-fatjar/src/**
